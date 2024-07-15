@@ -1,0 +1,13 @@
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\bin\Debug\net8.0\AccountService.Data.deps.json
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\bin\Debug\net8.0\AccountService.Data.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\bin\Debug\net8.0\AccountService.Data.pdb
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.AssemblyInfoInputs.cache
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.AssemblyInfo.cs
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.csproj.CoreCompileInputs.cache
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.sourcelink.json
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\refint\AccountService.Data.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.pdb
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\ref\AccountService.Data.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\AccountStructureModule\AccountService.Data\obj\Debug\net8.0\AccountService.Data.csproj.AssemblyReference.cache
