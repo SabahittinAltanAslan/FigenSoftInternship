@@ -10,3 +10,4 @@ C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\Inve
 C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.Data\obj\Debug\net8.0\refint\InventoryService.Data.dll
 C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.Data\obj\Debug\net8.0\InventoryService.Data.pdb
 C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.Data\obj\Debug\net8.0\ref\InventoryService.Data.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.Data\obj\Debug\net8.0\InventoryService.Data.csproj.AssemblyReference.cache

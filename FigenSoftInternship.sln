@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryService.API", "Inv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryService.Data", "InventoryModule\InventoryService.Data\InventoryService.Data.csproj", "{52FF8152-ED69-4D53-BD58-178C510173D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketService.API", "MarketModule\MarketService.API\MarketService.API.csproj", "{59E74F10-6392-40C6-A6D7-F6CE9EB6AAEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketService.API", "MarketModule\MarketService.API\MarketService.API.csproj", "{59E74F10-6392-40C6-A6D7-F6CE9EB6AAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketService.Data", "MarketModule\MarketService.Data\MarketService.Data.csproj", "{BCAE63CE-D16A-46A7-AF96-5E7253299B60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketService.Data", "MarketModule\MarketService.Data\MarketService.Data.csproj", "{BCAE63CE-D16A-46A7-AF96-5E7253299B60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

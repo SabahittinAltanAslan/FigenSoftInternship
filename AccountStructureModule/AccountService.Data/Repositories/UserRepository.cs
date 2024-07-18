@@ -29,5 +29,40 @@ namespace AccountService.Data.Repositories
 
             return user;
         }
+
+        public async Task<List<User>?> GetAll()
+        {
+            var filter = Builders<User>.Filter.Empty;
+            //Mongoose kullanımına alışmak için bu şekilde filtre yapıyoruz.
+
+            var result = await userCollection.Find(filter).ToListAsync();
+
+            return result;
+
+        }
+
+        public async Task<User?> GetByUniqueInfo(Guid uniqueInfo)
+        {
+            var filter = Builders<User>.Filter.Eq(x => x.UniqueInfo, uniqueInfo);
+
+            var result = await userCollection.Find(filter).FirstOrDefaultAsync();
+
+            return result;
+        }
+
+        public async Task Update(User updatedUser)
+        {
+            var filter = Builders<User>.Filter.Eq(x => x.UniqueInfo, updatedUser.UniqueInfo);
+
+            await userCollection.FindOneAndReplaceAsync(filter, updatedUser);
+        }
+
+        public async Task Remove(Guid uniqueInfo)
+        {
+            var filter = Builders<User>.Filter.Eq(x => x.UniqueInfo, uniqueInfo);
+
+            await userCollection.DeleteOneAsync(filter);
+
+        }
     }
 }

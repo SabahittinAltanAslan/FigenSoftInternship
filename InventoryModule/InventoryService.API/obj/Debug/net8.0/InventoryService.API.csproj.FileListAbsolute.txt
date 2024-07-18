@@ -33,3 +33,16 @@ C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\Inve
 C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\obj\Debug\net8.0\InventoryService.API.pdb
 C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\obj\Debug\net8.0\InventoryService.API.genruntimeconfig.cache
 C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\obj\Debug\net8.0\ref\InventoryService.API.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\Snappier.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Legen\OneDrive\Belgeler\GitHub\FigenSoftInternship\InventoryModule\InventoryService.API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
